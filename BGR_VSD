@@ -17,3 +17,39 @@ BGR Compenents.
   /image
   
   
+  
+  1. CTAT
+  Diode connected PNP, Emitter voltage here shows CTAT behaviour with temperature
+CTAT slope increases with increasing number of devices or increasing current.
+
+/image
+
+2. PTAT
+
+
+/image
+BJT curr equation.
+I= Is e(V/Vt)
+
+Gives us,
+V= Vt in(I/Is)
+
+For branch A, V = Vt ln(I/Is)  and for branch B, V1= Vt ln(1/NIs)
+V-V1 = Vtln(N)
+As discussed before Vt is PTAT 
+dVt /dt = 85uV/deg C
+
+Here, V1= voltage across the BJT is CTAT
+V= Voltage cross R and Q2 is also CTAT but with lesser slope
+hence we get V-V1 = voltage cross R1= PTAT
+
+I.R1 = V=V1  = Vt Ln(N)
+hence R= Vt ln(N)/I
+
+Reference Branch Circuit
+
+/image
+
+
+
+
