@@ -6,7 +6,7 @@ A BGR circuit is a voltage and temperature independent voltage reference circuit
 different basic strustures can be used to create Voltage reference like Resistor divider or  Forward bias p-n junction but they all show huge variation with temperature and supplu voltage.
 ###      Operating Principle
 Voltage across BJT has negative temp coefficient while theraml voltage(Vt) has positive temp coefficient. If these two are added in a certain proportion, positive and negative temp coefficient cancel each other and temp independent Vreg is obtained which is ~1.2V (bandgap energy of silicon at 0 K)
-![Test](bgr+principle.JPG "hello")
+![bgr1](bgr+principle.JPG "bgr1")
 ###  BGR Compenents.
   CTAT voltage genration circuit <br>
   PTAT voltage generation circuit <br>
@@ -22,10 +22,10 @@ Voltage across BJT has negative temp coefficient while theraml voltage(Vt) has p
   Diode connected PNP, Emitter voltage here shows CTAT behaviour with temperature
 CTAT slope increases with increasing number of devices or increasing current.
 
- ![Test](ctat.JPG "hello")
+ ![ctat](/ctat.JPG "ctat1")
 
 ###   2. PTAT
- ![Test](ptat.JPG "hello")
+ ![ptat](ptat.JPG "ptat1")
 BJT curr equation. <br>
 I= Is e(V/Vt) <br>
 
@@ -54,4 +54,4 @@ Reference Branch Circuit
 
 
 
-![Test](2.JPG "hello")
+![Test](/2.JPG "hello")
