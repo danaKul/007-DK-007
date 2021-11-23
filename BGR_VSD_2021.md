@@ -7,12 +7,12 @@ different basic strustures can be used to create Voltage reference like Resistor
 ###      Operating Principle
 Voltage across BJT has negative temp coefficient while theraml voltage(Vt) has positive temp coefficient. If these two are added in a certain proportion, positive and negative temp coefficient cancel each other and temp independent Vreg is obtained which is ~1.2V (bandgap energy of silicon at 0 K)
 ![Test](bgr+principle.JPG "hello")
-BGR Compenents.
-  CTAT voltage genration circuit
-  PTAT voltage generation circuit
-  Self Biased Curr Mirror
-  reference branch circuit
-  Start up circuit
+###BGR Compenents.
+  CTAT voltage genration circuit <br>
+  PTAT voltage generation circuit <br>
+  Self Biased Curr Mirror <br>
+  reference branch circuit <br>
+  Start up circuit <br>
   
   /image
   
