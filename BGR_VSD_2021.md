@@ -1,4 +1,10 @@
-# BangdGap Reference VSD
+
 ## BangdGap Reference VSD
-### BangdGap Reference VSD
+
+A BGR circuit is a voltage and temperature independent voltage reference circuit that is used in integrated circuits widely for generating refernce voltages for circuits like ADC, DAC, LDO etc.
+In such systens typically temperature coeffience needed is 10-50ppm/deg C  0r ~10uV-50uV/deg C for vref=1V and power supply rejection, about 40-60 dB or 1-10mV/V
+different basic strustures can be used to create Voltage reference like Resistor divider or  Forward bias p-n junction but they all show huge variation with temperature and supplu voltage.
+
+
+
 ![Test](2.JPG "hello")
