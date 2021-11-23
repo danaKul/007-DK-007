@@ -1,4 +1,4 @@
 # BangdGap Reference VSD
 ## BangdGap Reference VSD
 ### BangdGap Reference VSD
-![Test](/2.jpg "hello")
+![Test](2.JPG "hello")
