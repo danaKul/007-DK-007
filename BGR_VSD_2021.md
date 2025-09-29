@@ -46,8 +46,8 @@ I.R1 = V=V1  = Vt Ln(N)
 hence R= Vt ln(N)/I
 
 Reference Branch Circuit
+![princ](bgr+principle.JPG "princ1")
 
-/image
 
 
 
